@@ -1,6 +1,6 @@
 cask "kimi-code" do
-  version "1.0.7"
-  sha256 "907b3e74dddd4f01a672d9e6f65ddd3fb771c74eb8ec33a97c009f2d59dd2f34"
+  version "1.0.12"
+  sha256 "7344f45d4ab8c9b2cb3452f15baad471fddcde5e5268acf9f472e87ef1b7c48e"
 
   url "https://github.com/liujunGH/kimi-gui/releases/download/v#{version}/Kimi.Code_#{version}_aarch64.dmg"
   name "Kimi Code"
